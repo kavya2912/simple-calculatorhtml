@@ -1,1 +1,2 @@
 # simple-calculatorhtml
+javascript used
